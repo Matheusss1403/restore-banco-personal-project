@@ -1,0 +1,7 @@
+com\matheus\restore\DatabaseManager.class
+com\matheus\restore\ConfigManager.class
+com\matheus\restore\RestoreService.class
+com\matheus\restore\MainApp.class
+com\matheus\restore\RestoreUI$1.class
+com\matheus\restore\RestoreUI.class
+com\matheus\restore\Config.class
